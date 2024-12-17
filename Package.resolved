@@ -1,13 +1,13 @@
 {
-  "originHash" : "edaf8da9a20efb16bd8a2100ed93c5093208865a85072629992883646174d3f6",
+  "originHash" : "1ae6bebe1491a808c0fecb589150f78806f1459aaf85db1b7782bac09eed2b76",
   "pins" : [
     {
       "identity" : "codabletotypescript",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/omochi/CodableToTypeScript.git",
       "state" : {
-        "revision" : "e5a24cd47970a97700223fbfa6ba5d52113a0273",
-        "version" : "3.0.1"
+        "revision" : "e9b7d2701adb7f482507c885538ee7ead9cf617d",
+        "version" : "3.0.2"
       }
     },
     {
